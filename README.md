@@ -1,5 +1,5 @@
    Hello World!.. 
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/zulqarnain-hayder/">Zulqarnain</a> </h1> 
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/shayankhalil/">SHAYAN</a> </h1> 
 
 <!--- Adding Header Elements -->
 <p align="center">
@@ -36,22 +36,22 @@ Contact on  [WhatsApp](http://wa.me/923554797685)<br>
 ##  GitHub Status
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zulqarnain-hayder1&theme=tokyonight" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zulqarnain-hayder1&theme=tokyonight" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shayankhalil&theme=tokyonight" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayankhalil&theme=tokyonight" height="195" />
 </p>
 
 ## Languages Status
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zulqarnain-hayder1&theme=tokyonight" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zulqarnain-hayder1&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shayankhalil&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shayankhalil&theme=tokyonight" width="400" />
 </p>
 
 
 ## Contribution Graph
 
-<img  src="https://github-readme-activity-graph.vercel.app/graph?username=Zulqarnain-hayder1&theme=react-dark" >
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zulqarnain-hayder1&theme=tokyonight" >
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zulqarnain-hayder1&theme=tokyonight">
+<img  src="https://github-readme-activity-graph.vercel.app/graph?username=shayankhalil&theme=react-dark" >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shayankhalil&theme=tokyonight" >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shayankhalil&theme=tokyonight">
 
 
