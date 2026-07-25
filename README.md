@@ -3,19 +3,19 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://linktr.ee/engr.zulqarnain">Portfolio</a>-
-  <a href="https://www.linkedin.com/in/zulqarnain-hayder/">LinkedIn</a> - 
-  <a href="https://x.com/zulqarnai7">Twitter</a> -
-  <a href="https://linktr.ee/engr.zulqarnain">Website</a> -
-  <a href="https://topmate.io/zulqarnain">Contact me</a> -
+  <a href="https://www.instagram.com/shayan_khalil19">Portfolio</a>-
+  <a href="https://www.linkedin.com/in/shayankhalil19/">LinkedIn</a> - 
+  <a href="https://x.com/Shayankhalhzc">Twitter</a> -
+  <a href="https://www.instagram.com/shayan_khalil19">Website</a> -
+  <a href="https://">Contact me</a> -
 </p> 
 
 -----------------------------------------------------------
 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 Software Engineering Student | Developer @CUI <br>
-Check my  [Website](https://linktr.ee/engr.zulqarnain)
-How to reach me: [Schedule Call](https://topmate.io/zulqarnain) <br>
-Contact on  [WhatsApp](http://wa.me/923554797685)<br>
+Check my  [Website](https://www.instagram.com/shayan_khalil19)
+How to reach me: [Schedule Call](https://www.linkedin.com/in/shayankhalil19) <br>
+Contact on  [WhatsApp]()<br>
 
 <br>
 <br><br>
